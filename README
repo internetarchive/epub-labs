@@ -1,0 +1,71 @@
+EPUB-labs is intended to be an informal, open development
+space, with associated mailing list, for ebook and media
+developers to begin exploring the best ways of achieving
+support for enhanced transmedia and internationalization
+experiences for ebooks. Êepub-labs is intended to foster
+discussion of best practices for html5, css v2/v3, and
+other technologies for enhanced ebooks, in both web-based
+and more traditional package delivery formats.
+
+epub-labs is not an IDPF program, and it is not part of the
+official IDPF standards development process. ÊNor is it a
+part of IDPF's Maintenance Group activities supporting the
+current EPUB specification. ÊThe formalization of new EPUB
+standards will proceed through an official IDPF epub track.
+
+epub-labs will serve as an adjunct to official standards
+process guided by the IDPF by providing a open framework to
+demonstrate test implementations and obtain open feedback and
+community improvement. ÊHowever, IDPF is obviously free to
+avail itself of the work of epub-labs in its specification
+process, the development of reference implementations, or
+test and verification suites. ÊStrong associations and on-
+going communication exist between the principals behind the
+epub-labs community, IDPF, and AAP Digital Issues Working
+Group.
+
+epub-labs invites "attachments" and associations with any
+existing community developer efforts supporting the epub
+ecosystem.
+
+epub-labs is intended to be a commons. ÊNo restricted
+content IP should be brought into the environment. ÊEg.,
+complete proprietary packaged ebooks available on the
+commercial market will not produce optimal community
+results. Ê(Proposed technical standards may possess IP
+entanglements; the epub-labs forum will discuss their
+relative merits -- video codecs being a poster child).
+
+Please submit samples, trial excerpts, and demos based on
+public domain materials whenever possible. ÊAll enhancements,
+whether video, textual, audio, or geographic should point to
+items in the public domain or possessing CC licenses that
+permit non-commercial use (acknowledging the terms of the
+CC license).
+
+I propose that we use the following text as a sample
+whenever appropriate. ÊOf course, other texts can be
+used as well.
+
+Letters and Speeches of the Honorable John F. Fitzgerald
+http://www.archive.org/details/lettersspeecheso00fitz
+
+The source repository is hosted at github - if this is
+unsatisfactory, it can be changed or moved.
+
+http://github.com/internetarchive/epub-labs
+
+The Internet Archive is hosting this facility, however we do
+not desire to intervene beyond necessary site maintenance and
+our own developers' participation. ÊWe will not apply a claim
+to any IP, content, or materials deposited on the site by
+other parties.
+
+A mailing list is available for subscription at:
+
+http://mail.archive.org/cgi-bin/mailman/listinfo/epub-labs
+
+If other community tools can or should be added, please do
+not hesitate to make suggestions through the list.
+
+Thank you, and daemons' speed!
